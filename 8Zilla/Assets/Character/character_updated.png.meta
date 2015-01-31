@@ -1,20 +1,21 @@
 fileFormatVersion: 2
-guid: b0705273f4d63fa4fa9bb825abc08a65
+guid: c207ee1e4e607cb4b8fb81eddd70e616
 TextureImporter:
   fileIDToRecycleName:
-    21300000: UpperArm_Right
-    21300002: Head Torso
-    21300004: UpperArm_Left
-    21300006: Arm_Right
-    21300008: Arm_Left
-    21300010: Tail_01
-    21300012: Tail_01
-    21300014: Pelvis
-    21300016: Thigh_Left
-    21300018: Calf_Right
-    21300020: Thigh_Right
-    21300022: Foot_Right
-    21300024: Calf_Left
+    21300000: Character
+    21300002: Character_0
+    21300004: Character_1
+    21300006: Character_2
+    21300008: Character_3
+    21300010: Character_4
+    21300012: Character_5
+    21300014: Character_6
+    21300016: Character_7
+    21300018: Character_8
+    21300020: Character_9
+    21300022: Character_10
+    21300024: Character_11
+    21300026: Character_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -34,8 +35,8 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 1024
+  textureFormat: -3
+  maxTextureSize: 2048
   textureSettings:
     filterMode: 0
     aniso: 1
@@ -56,87 +57,87 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: UpperArm_Right
+    - name: Character_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 325
-        width: 63
-        height: 70
+        x: 5
+        y: 327
+        width: 60
+        height: 67
       alignment: 9
-      pivot: {x: .265999854, y: .102199443}
+      pivot: {x: .267914146, y: .0756640062}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Head Torso
+    - name: Character_1
       rect:
         serializedVersion: 2
-        x: 176
+        x: 161
         y: 250
-        width: 84
+        width: 99
         height: 124
       alignment: 9
-      pivot: {x: .441499978, y: .077289708}
+      pivot: {x: .51379317, y: .0684693828}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: UpperArm_Left
+    - name: Character_2
       rect:
         serializedVersion: 2
-        x: 334
-        y: 330
-        width: 58
-        height: 60
+        x: 338
+        y: 331
+        width: 52
+        height: 59
       alignment: 9
-      pivot: {x: .21758613, y: .135999545}
+      pivot: {x: .146506086, y: .0555166453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arm_Right
+    - name: Character_3
       rect:
         serializedVersion: 2
-        x: 6
-        y: 257
-        width: 54
-        height: 43
+        x: 8
+        y: 259
+        width: 51
+        height: 39
       alignment: 9
-      pivot: {x: .833666921, y: .474604398}
+      pivot: {x: .950026333, y: .508168519}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Arm_Left
+    - name: Character_4
       rect:
         serializedVersion: 2
         x: 316
         y: 248
         width: 54
-        height: 59
-      alignment: 9
-      pivot: {x: .257333249, y: .148338705}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Tail_01
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 160
-        width: 47
         height: 58
       alignment: 9
-      pivot: {x: .860128105, y: .23641336}
+      pivot: {x: .273066193, y: .0774330944}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Tail_01
+    - name: Character_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 144
-        width: 63
-        height: 33
+        x: 17
+        y: 164
+        width: 45
+        height: 50
       alignment: 9
-      pivot: {x: .864000499, y: .384181172}
+      pivot: {x: .949088693, y: .151569217}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Pelvis
+    - name: Character_6
       rect:
         serializedVersion: 2
-        x: 144
+        x: 70
         y: 147
-        width: 95
-        height: 81
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 61
+        height: 28
+      alignment: 9
+      pivot: {x: .945534527, y: .458520085}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Thigh_Left
+    - name: Character_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 93
+        height: 79
+      alignment: 9
+      pivot: {x: .669844449, y: .873423696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_8
       rect:
         serializedVersion: 2
         x: 318
@@ -144,47 +145,47 @@ TextureImporter:
         width: 58
         height: 49
       alignment: 9
-      pivot: {x: .198758885, y: .823142827}
+      pivot: {x: .161946267, y: .955165029}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Calf_Right
+    - name: Character_9
       rect:
         serializedVersion: 2
-        x: 110
+        x: 111
         y: 46
-        width: 36
-        height: 62
+        width: 35
+        height: 69
       alignment: 9
-      pivot: {x: .302833349, y: .808226049}
+      pivot: {x: .429974377, y: .812577188}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Thigh_Right
+    - name: Character_10
       rect:
         serializedVersion: 2
-        x: 225
-        y: 92
-        width: 53
+        x: 226
+        y: 93
+        width: 51
         height: 53
       alignment: 9
-      pivot: {x: .252754927, y: .788452983}
+      pivot: {x: .283744961, y: .906940103}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Foot_Right
+    - name: Character_11
       rect:
         serializedVersion: 2
-        x: 178
-        y: 6
-        width: 34
-        height: 22
+        x: 179
+        y: 8
+        width: 29
+        height: 20
       alignment: 9
-      pivot: {x: .243058592, y: .475181222}
+      pivot: {x: .221105635, y: .794106662}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Calf_Left
+    - name: Character_12
       rect:
         serializedVersion: 2
         x: 338
         y: 17
-        width: 43
+        width: 42
         height: 65
       alignment: 9
-      pivot: {x: .702516079, y: .878273487}
+      pivot: {x: .616708636, y: .952471793}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
