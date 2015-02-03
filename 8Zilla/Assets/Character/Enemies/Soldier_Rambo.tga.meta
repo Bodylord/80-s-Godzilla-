@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 77080d0cf384d6a49a7dec2757c8eb3d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Soldier_Rambo_0
+    21300002: Soldier_Rambo_1
+    21300004: Soldier_Rambo_2
+    21300006: Soldier_Rambo_3
+    21300008: Soldier_Rambo_4
+    21300010: Soldier_Rambo_5
+    21300012: Soldier_Rambo_6
+    21300014: Soldier_Rambo_7
+    21300016: Soldier_Rambo_8
+    21300018: Soldier_Rambo_9
+    21300020: Soldier_Rambo_10
+    21300022: Soldier_Rambo_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Soldier_Rambo_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 651
+        width: 71
+        height: 143
+      alignment: 9
+      pivot: {x: .857611001, y: .799040258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 610
+        width: 173
+        height: 306
+      alignment: 9
+      pivot: {x: .492246777, y: .0857675597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 649
+        width: 85
+        height: 146
+      alignment: 9
+      pivot: {x: .121273264, y: .895047545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 467
+        width: 66
+        height: 119
+      alignment: 9
+      pivot: {x: .641732872, y: .848120928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 403
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 482
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: .26846242, y: .820751429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 364
+        width: 44
+        height: 78
+      alignment: 9
+      pivot: {x: .59088701, y: .851504207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 214
+        width: 92
+        height: 175
+      alignment: 9
+      pivot: {x: .653085768, y: .806588471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 202
+        width: 84
+        height: 187
+      alignment: 9
+      pivot: {x: .388222843, y: .804846287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 356
+        width: 49
+        height: 65
+      alignment: 9
+      pivot: {x: .322070062, y: .80953604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 80
+        height: 246
+      alignment: 9
+      pivot: {x: .5, y: .955286682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soldier_Rambo_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 23
+        width: 79
+        height: 249
+      alignment: 9
+      pivot: {x: .390961856, y: .947256207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
