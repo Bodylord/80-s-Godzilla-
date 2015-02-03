@@ -17,11 +17,15 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 <<<<<<< .merge_file_a27476
 		GlobalSection(MonoDevelopProperties) = preSolution
 =======
 						GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> .merge_file_a26844
+=======
+							GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 676cdb426c8b4dfffec0ba43a2bc7bc800d4ada9
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
