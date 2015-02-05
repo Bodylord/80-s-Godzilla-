@@ -1,0 +1,11 @@
+#VS
+*.csproj
+*.sln
+*.userprefs
+*.suo
+obj/
+#Unity
+Library/
+Temp/
+*/UnityVS.VersionSpecific.dll
+*/UnityVS.VersionSpecific.dll.meta
