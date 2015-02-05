@@ -16,20 +16,6 @@ TextureImporter:
     21300022: Character_10
     21300024: Character_11
     21300026: Character_12
-    21300028: Kingzilla_Forearm_Right
-    21300030: Kingzilla_Chest
-    21300032: Kingzilla_Forearm_left
-    21300034: Kingzilla_Arm_Right
-    21300036: Kingzilla_Arm_Left
-    21300038: Kingzilla_Tail_End
-    21300040: Kingzilla_Tail_Middle
-    21300042: Kingzilla_Pelvis
-    21300044: Kingzilla_Thigh_Left
-    21300046: Kingzilla_Calf_Right
-    21300048: Kingzilla_Thigh_Right
-    21300050: Kingzilla_Calf_Left
-    21300052: Kingzilla_Foot_Right
-    21300054: Kingzilla_Foot_Left
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -71,27 +57,27 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: Kingzilla_Forearm_Right
+    - name: Character_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 328
-        width: 59
-        height: 66
+        x: 5
+        y: 327
+        width: 60
+        height: 67
       alignment: 9
-      pivot: {x: .220449254, y: .176167339}
+      pivot: {x: .267914146, y: .0756640062}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Chest
+    - name: Character_1
       rect:
         serializedVersion: 2
-        x: 160
+        x: 161
         y: 250
         width: 99
-        height: 122
+        height: 124
       alignment: 9
-      pivot: {x: .510475874, y: .105434231}
+      pivot: {x: .51379317, y: .0684693828}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Forearm_left
+    - name: Character_2
       rect:
         serializedVersion: 2
         x: 338
@@ -99,99 +85,89 @@ TextureImporter:
         width: 52
         height: 59
       alignment: 9
-      pivot: {x: .182069048, y: .201131016}
+      pivot: {x: .146506086, y: .0555166453}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Arm_Right
+    - name: Character_3
       rect:
         serializedVersion: 2
-        x: 5
-        y: 260
-        width: 60
+        x: 8
+        y: 259
+        width: 51
         height: 39
       alignment: 9
-      pivot: {x: .779332459, y: .466343015}
+      pivot: {x: .950026333, y: .508168519}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Arm_Left
+    - name: Character_4
       rect:
         serializedVersion: 2
-        x: 317
-        y: 249
-        width: 52
-        height: 56
+        x: 316
+        y: 248
+        width: 54
+        height: 58
       alignment: 9
-      pivot: {x: .34287262, y: .176148012}
+      pivot: {x: .273066193, y: .0774330944}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Tail_End
+    - name: Character_5
       rect:
         serializedVersion: 2
-        x: 18
-        y: 165
-        width: 43
-        height: 48
+        x: 17
+        y: 164
+        width: 45
+        height: 50
       alignment: 9
-      pivot: {x: .94893378, y: .114262901}
+      pivot: {x: .949088693, y: .151569217}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Tail_Middle
+    - name: Character_6
       rect:
         serializedVersion: 2
-        x: 71
+        x: 70
         y: 147
-        width: 59
-        height: 27
+        width: 61
+        height: 28
       alignment: 9
-      pivot: {x: .963918924, y: .428102851}
+      pivot: {x: .945534527, y: .458520085}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Pelvis
+    - name: Character_7
       rect:
         serializedVersion: 2
-        x: 137
-        y: 149
-        width: 95
-        height: 76
+        x: 146
+        y: 148
+        width: 93
+        height: 79
       alignment: 9
-      pivot: {x: .60816282, y: .640860498}
+      pivot: {x: .669844449, y: .873423696}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Thigh_Left
+    - name: Character_8
       rect:
         serializedVersion: 2
-        x: 317
-        y: 117
-        width: 59
-        height: 53
+        x: 318
+        y: 116
+        width: 58
+        height: 49
       alignment: 9
-      pivot: {x: .311517239, y: .668110371}
+      pivot: {x: .161946267, y: .955165029}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Calf_Right
+    - name: Character_9
       rect:
         serializedVersion: 2
-        x: 113
+        x: 111
         y: 46
-        width: 33
-        height: 60
+        width: 35
+        height: 69
       alignment: 9
-      pivot: {x: .261545599, y: .811548769}
+      pivot: {x: .429974377, y: .812577188}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Thigh_Right
+    - name: Character_10
       rect:
         serializedVersion: 2
         x: 226
-        y: 76
-        width: 50
+        y: 93
+        width: 51
         height: 53
       alignment: 9
-      pivot: {x: .285446465, y: .675145268}
+      pivot: {x: .283744961, y: .906940103}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Calf_Left
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 30
-        width: 38
-        height: 51
-      alignment: 9
-      pivot: {x: .594110608, y: .861407995}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Foot_Right
+    - name: Character_11
       rect:
         serializedVersion: 2
         x: 179
@@ -199,17 +175,17 @@ TextureImporter:
         width: 29
         height: 20
       alignment: 9
-      pivot: {x: .23641336, y: .718399048}
+      pivot: {x: .221105635, y: .794106662}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: Kingzilla_Foot_Left
+    - name: Character_12
       rect:
         serializedVersion: 2
-        x: 278
-        y: 14
-        width: 32
-        height: 13
+        x: 338
+        y: 17
+        width: 42
+        height: 65
       alignment: 9
-      pivot: {x: .215147972, y: .743494153}
+      pivot: {x: .616708636, y: .952471793}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

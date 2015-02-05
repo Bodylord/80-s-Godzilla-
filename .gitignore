@@ -1,0 +1,107 @@
+8Zilla/8Zilla-csharp.sln
+8Zilla/8Zilla.sln
+8Zilla/8Zilla.userprefs
+8Zilla/Assembly-CSharp-vs.csproj
+8Zilla/Assembly-CSharp.csproj
+8Zilla/Assets/models.meta
+8Zilla/Assets/ProjectSettings.meta
+8Zilla/Assets/sprites.meta
+8Zilla/Assets/Character/character_updated.png
+8Zilla/Assets/Character/character_updated.png.meta
+8Zilla/Assets/models/3D.meta
+8Zilla/Assets/models/3D/10620299_10152817419833649_5028093441610580088_o.jpg
+8Zilla/Assets/models/3D/10620299_10152817419833649_5028093441610580088_o.jpg.meta
+8Zilla/Assets/models/3D/building fat.mtl
+8Zilla/Assets/models/3D/building fat.mtl.meta
+8Zilla/Assets/models/3D/building fat.png
+8Zilla/Assets/models/3D/building fat.png.meta
+8Zilla/Assets/models/3D/building test.mtl
+8Zilla/Assets/models/3D/building test.mtl.meta
+8Zilla/Assets/models/3D/building uv.png
+8Zilla/Assets/models/3D/building uv.png.meta
+8Zilla/Assets/models/3D/Materials.meta
+8Zilla/Assets/models/3D/Materials/building.mat
+8Zilla/Assets/models/3D/Materials/building.mat.meta
+8Zilla/Assets/models/3D/Materials/defaultMat 1.mat
+8Zilla/Assets/models/3D/Materials/defaultMat 1.mat.meta
+8Zilla/Assets/models/3D/Materials/defaultMat.mat
+8Zilla/Assets/models/3D/Materials/defaultMat.mat.meta
+8Zilla/Assets/models/3D/Materials/test 1.png
+8Zilla/Assets/models/3D/Materials/test 1.png.meta
+8Zilla/Assets/ProjectSettings/AudioManager.asset
+8Zilla/Assets/ProjectSettings/AudioManager.asset.meta
+8Zilla/Assets/ProjectSettings/DynamicsManager.asset
+8Zilla/Assets/ProjectSettings/DynamicsManager.asset.meta
+8Zilla/Assets/ProjectSettings/EditorBuildSettings.asset
+8Zilla/Assets/ProjectSettings/EditorBuildSettings.asset.meta
+8Zilla/Assets/ProjectSettings/EditorSettings.asset
+8Zilla/Assets/ProjectSettings/EditorSettings.asset.meta
+8Zilla/Assets/ProjectSettings/GraphicsSettings.asset
+8Zilla/Assets/ProjectSettings/GraphicsSettings.asset.meta
+8Zilla/Assets/ProjectSettings/InputManager.asset
+8Zilla/Assets/ProjectSettings/InputManager.asset.meta
+8Zilla/Assets/ProjectSettings/NavMeshLayers.asset
+8Zilla/Assets/ProjectSettings/NavMeshLayers.asset.meta
+8Zilla/Assets/ProjectSettings/NetworkManager.asset
+8Zilla/Assets/ProjectSettings/NetworkManager.asset.meta
+8Zilla/Assets/ProjectSettings/Physics2DSettings.asset
+8Zilla/Assets/ProjectSettings/Physics2DSettings.asset.meta
+8Zilla/Assets/ProjectSettings/ProjectSettings.asset
+8Zilla/Assets/ProjectSettings/ProjectSettings.asset.meta
+8Zilla/Assets/ProjectSettings/QualitySettings.asset
+8Zilla/Assets/ProjectSettings/QualitySettings.asset.meta
+8Zilla/Assets/ProjectSettings/TagManager.asset
+8Zilla/Assets/ProjectSettings/TagManager.asset.meta
+8Zilla/Assets/ProjectSettings/TimeManager.asset
+8Zilla/Assets/ProjectSettings/TimeManager.asset.meta
+8Zilla/Assets/References/Kennet's/Soldier.meta
+8Zilla/Assets/References/Kennet's/Soldier/15383305415_20b5e30e7b_b.jpg
+8Zilla/Assets/References/Kennet's/Soldier/15383305415_20b5e30e7b_b.jpg.meta
+8Zilla/Assets/References/Kennet's/Soldier/Soldier_Rambo.psd
+8Zilla/Assets/References/Kennet's/Soldier/Soldier_Rambo.psd.meta
+8Zilla/Assets/References/Kennet's/Soldier/Soldier_Rambo.tga
+8Zilla/Assets/References/Kennet's/Soldier/Soldier_Rambo.tga.meta
+8Zilla/Assets/Scenes/asset test.unity
+8Zilla/Assets/Scenes/asset test.unity.meta
+8Zilla/Assets/Scripts/ClassStuff.cs
+8Zilla/Assets/Scripts/ClassStuff.cs.meta
+8Zilla/Assets/sprites/bloop bg.png
+8Zilla/Assets/sprites/bloop bg.png.meta
+8Zilla/Library/CurrentMaximizeLayout.dwlt
+8Zilla/Library/metadata/01/015750a7e3fee904a8546a98d94792f3
+8Zilla/Library/metadata/0e/0e7b28c89cc19f848809ec4586482e99
+8Zilla/Library/metadata/0f/0fb94ff51c004a542a30ad9c061734d2
+8Zilla/Library/metadata/0f/0ff186e45655d4e40a131b93e6ac399d
+8Zilla/Library/metadata/1d/1d976dab66227d841bcdd1562005743c
+8Zilla/Library/metadata/2a/2a9f5bc9a39a69846831fcc9fff3e085
+8Zilla/Library/metadata/32/32fd47a9768f38646882daec4b6c8df1
+8Zilla/Library/metadata/39/39545cfcb14992142a46900e8ff4fd34
+8Zilla/Library/metadata/3a/3a5e6f5bea2a31849b088861fa0ae667
+8Zilla/Library/metadata/41/41272e355347f9a46bc393f604d5853d
+8Zilla/Library/metadata/54/54cfd8a3ac57d554cad7de6bf988f347
+8Zilla/Library/metadata/67/67393f9f3bc48ee4ab5c7e3eae6003c8
+8Zilla/Library/metadata/75/75d5bb99e3c8eb5499e13ece26663a4d
+8Zilla/Library/metadata/80/80a3616ca19596e4da0f10f14d241e9f
+8Zilla/Library/metadata/81/81d1870acf9b31549a31ad4bc079a1ec
+8Zilla/Library/metadata/88/88518bdee160acd4698f0eebbb9ca0a5
+8Zilla/Library/metadata/89/8910a92ecbcccf94b940a3e45efbd39e
+8Zilla/Library/metadata/8a/8ac1a9e2006b81047a335b31070168a5
+8Zilla/Library/metadata/98/9822a4859fd2c6e4796605e48c33d668
+8Zilla/Library/metadata/98/986d28aa74d35564a839ed585963aee8
+8Zilla/Library/metadata/9c/9cfe8b72737584a4abd6fb90cbb4c096
+8Zilla/Library/metadata/a0/a029341f59469804ead688c3c32eaf15
+8Zilla/Library/metadata/a7/a75036a3f90fb6c4f9631a4eb765fc94
+8Zilla/Library/metadata/c4/c4d962bf4df977948a00dcb19e9fee89
+8Zilla/Library/metadata/c5/c5632998f75b1984ca0386ce91dd9a27
+8Zilla/Library/metadata/c7/c7b40c127ac45bc47a0c56ebab5e93f5
+8Zilla/Library/metadata/cc/cc898c4adc913d84f8860337e02a4c8c
+8Zilla/Library/metadata/cf/cf8364fb074323d44aa7cfc00079cf93
+8Zilla/Library/metadata/cf/cfee66271fd2e8a4ca6b54f3d7896be4
+8Zilla/Library/metadata/d7/d760e72f9a7b72c42b4aa5ba1a3fe716
+8Zilla/Library/metadata/d7/d7cb7733e5bfd784189ffcb0bf6cd589
+8Zilla/Library/metadata/f1/f1659a5f7c42fab4ba57725b7980dbec
+8Zilla/Library/metadata/f4/f4a1de20969667f468ea5782fa6df750
+8Zilla/Library/metadata/f5/f5f67c52d1564df4a8936ccd202a3bd8
+8Zilla/Library/metadata/f9/f95bd13e20ef31948a7f83db624aa369
+8Zilla/Library/metadata/fa/fabcb9bfd885d184a888bf4228dfaebb
+8Zilla/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
