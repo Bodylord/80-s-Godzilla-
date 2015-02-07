@@ -15,7 +15,7 @@ public class CharacterController2d : MonoBehaviour
 		public float jumpforce = 250f;
 		public float latteralspeed = 5f;
 		private Animator animator;
-		private Side side = Side.left;
+		private Side side = Side.right;
 		public float jumpDeleay = 0.2f;
 		public AudioSource sheepSound;
 
