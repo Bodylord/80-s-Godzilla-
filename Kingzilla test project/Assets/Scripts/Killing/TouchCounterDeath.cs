@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class OneTouchDeath : MonoBehaviour, IDamagable
+public class TouchCounterDeath : MonoBehaviour, IDamagable
 {
     public int numberOfPunchToDie = 1;
     private int currentPunchCount = 0;

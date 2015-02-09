@@ -7,10 +7,14 @@ public class PlayerPunch : MonoBehaviour
     public GameObject boxcolliderToControl;
     private PlayerController playerController;
     private DumbCollider dumbColliderToControl;
+    private Animator animator;
+    
     public float step1DelayToEnableCollider = 1f;
     public float step2timeToEnableCollider = 5f;
     public float step3DelayToFinishPunching = 1f;
     public int damagePerHit = 5;
+
+   
     
 
 
@@ -21,6 +25,7 @@ public class PlayerPunch : MonoBehaviour
         if (boxcolliderToControl == null) Debug.LogError("Boxcollider is null, cannot punch");
         playerController = GetComponent<PlayerController>();
         dumbColliderToControl = boxcolliderToControl.GetComponent<DumbCollider>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame

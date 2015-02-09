@@ -16,7 +16,7 @@ public class RandomMovement : MonoBehaviour
     // Use this for initialization
     private void Start()
     {
-        var oneTouchDeath = GetComponent<OneTouchDeath>();
+        var oneTouchDeath = GetComponent<TouchCounterDeath>();
         if (oneTouchDeath != null)
         {
             oneTouchDeath.OnDeathStart += OnDeathStartEvent;
@@ -27,8 +27,10 @@ public class RandomMovement : MonoBehaviour
 
     private void OnDeathStartEvent(object sender, EventArgs eventArgs)
     {
-        StopCoroutine(_routineRunning);
-
+        if (_routineRunning != null)
+        {
+            StopCoroutine(_routineRunning);
+        }
         //This will ensure that we dont start routines
         _timerRunning = true;
         _walking = true;

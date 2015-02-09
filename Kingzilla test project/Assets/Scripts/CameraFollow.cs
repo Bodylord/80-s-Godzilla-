@@ -17,11 +17,19 @@ public class CameraFollow : MonoBehaviour
 	void Awake ()
 	{
 		// Setting up the reference.
-		player = GameObject.FindGameObjectWithTag("Player").transform;
+	    var check1 = GameObject.FindGameObjectWithTag("Player");
+	    if (check1 != null) player = check1.transform;
+	    else
+	    {
+            Debug.Log("Backup plan, look for character controller");
+            var checkForPlayer = GameObject.FindObjectOfType<PlayerController>();
+            if (checkForPlayer != null) player = checkForPlayer.gameObject.transform;
+	    }
+
 	}
 
 
-	bool CheckXMargin()
+    bool CheckXMargin()
 	{
 		// Returns true if the distance between the camera and the player in the x axis is greater than the x margin.
 		return Mathf.Abs(transform.position.x - player.position.x) > xMargin;

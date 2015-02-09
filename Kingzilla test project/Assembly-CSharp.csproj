@@ -39,27 +39,29 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>F:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>F:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Camera\SmoothFollow2.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Scripts\CharacterController2d.cs" />
+     <Compile Include="Assets\Scripts\DemoScript\SpawnPeopleRandomly.cs" />
      <Compile Include="Assets\Scripts\DestroyOnTimeout.cs" />
      <Compile Include="Assets\Scripts\GameCamera.cs" />
      <Compile Include="Assets\Scripts\GravityScript.cs" />
      <Compile Include="Assets\Scripts\Interfaces\IDamagable.cs" />
      <Compile Include="Assets\Scripts\Interfaces\IGameObject.cs" />
      <Compile Include="Assets\Scripts\JoystickTester.cs" />
-     <Compile Include="Assets\Scripts\Killing\OneTouchDeath.cs" />
      <Compile Include="Assets\Scripts\Killing\PlayerPunch.cs" />
+     <Compile Include="Assets\Scripts\Killing\TouchCounterDeath.cs" />
      <Compile Include="Assets\Scripts\Managers\ScoreTracker.cs" />
      <Compile Include="Assets\Scripts\Player\DumbCollider.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerHit.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerJump.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\RandomPeople\RandomMovement.cs" />
      <Compile Include="Assets\Scripts\SheepController.cs" />
@@ -68,7 +70,7 @@
      <Compile Include="Assets\Scripts\SpawnMarkerIdentifier.cs" />
      <Compile Include="Assets\Scripts\TurnWeel.cs" />
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ <HintPath>F:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
