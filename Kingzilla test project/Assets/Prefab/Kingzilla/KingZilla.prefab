@@ -76,9 +76,10 @@ GameObject:
   - 95: {fileID: 9500000}
   - 50: {fileID: 5050974}
   - 61: {fileID: 6150976}
-  - 114: {fileID: 11450978}
   - 114: {fileID: 11450976}
   - 114: {fileID: 11450974}
+  - 114: {fileID: 11497308}
+  - 114: {fileID: 11497310}
   m_Layer: 0
   m_Name: KingZilla
   m_TagString: Untagged
@@ -493,7 +494,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 150974}
   m_Enabled: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Size: {x: .986129045, y: .292593122}
   m_Center: {x: .104030728, y: .0577951074}
 --- !u!61 &6150976
@@ -563,21 +564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4799135174212d749aa1cc53a14e0346, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &11450978
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 100008}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe4a90b0a81a17045a9c6c47b65b4c88, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  jumpforce: 1000
-  latteralspeed: 10
-  jumpDeleay: .200000003
-  sheepSound: {fileID: 0}
 --- !u!114 &11482180
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -589,6 +575,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef69bc651059812429992bc682ec0331, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &11497308
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef82361130ec8c4dac015dc0846d076, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpTrigger: startJumpAnimation
+  jumpforce: 1200
+  jumpDeleay: .200000003
+--- !u!114 &11497310
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 976c4b5faffba574983e14ab48b340fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  forBooleanWalkingAnimation: walkingAnimation
+  latteralspeed: 5
+  sheepSound: {fileID: 0}
 --- !u!212 &21200000
 SpriteRenderer:
   m_ObjectHideFlags: 1
